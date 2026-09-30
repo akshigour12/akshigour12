@@ -31,6 +31,7 @@ Target Roles: DevOps · DevSecOps · SRE · Cloud Engineer · Platform Engineer
 
 2.5+ Years — VAPT / Application Security
 
+
 ⚡ STACK
 
 ☁️ Cloud · AWS · EC2 · S3 · IAM · VPC · EKS · CloudWatch · Route 53
