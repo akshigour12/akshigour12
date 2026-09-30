@@ -2,7 +2,7 @@
 
 Hi 👋 I am AKSHITA GOUR
 
-DevOps · DevSecOps · SRE · Cloud · Platform Engineering
+DevOps · DevSecOps · SRE · Cloud · Platform Engineer · VAPT
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=850&lines=DevOps+Engineer;DevSecOps+Engineer;Site+Reliability+Engineering;Cloud+%26+Platform+Engineering;CI%2FCD+%26+Infrastructure+Automation;AI-powered+DevSecOps" alt="Typing animation">
 
