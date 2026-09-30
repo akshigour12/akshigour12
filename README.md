@@ -18,11 +18,13 @@ DevOps · DevSecOps · SRE · Cloud / Platform Engineering
 
 </div>
 
+
 🧑‍💻 ABOUT
 
 Building secure, automated cloud-native infrastructure and CI/CD pipelines with a focus on reliability, security, and automation.
 
 Target Roles: DevOps · DevSecOps · SRE · Cloud · Platform Engineering
+
 
 
 🛠️ STACK
@@ -31,6 +33,7 @@ Cloud: AWS · EC2 · S3 · IAM · VPC · EKS · CloudWatch · Route 53
 DevOps/SRE: Linux · Git · Docker · Kubernetes · Jenkins · GitHub Actions · Nginx
 Security: Semgrep · Snyk · SonarQube · Trivy · Gitleaks · OWASP · VAPT · SAST · SCA · SBOM
 IaC/Code: Terraform · Python · Bash · JavaScript
+
 
 
 🚀 PROJECTS
@@ -51,9 +54,11 @@ Docker + Jenkins + AWS EC2 + Nginx
 Repo · Live
 
 
+
 🎓 CERTIFICATIONS
 
 eJPT v2 · CEH v12 · INE Certified Cloud Associate
+
 
 
 🔭 CURRENTLY BUILDING
@@ -61,10 +66,9 @@ eJPT v2 · CEH v12 · INE Certified Cloud Associate
 AI DevSecOps Agents · CI/CD Security · Kubernetes · AWS · Terraform · Observability
 
 
+
 <div align="center">
 
 BUILD → SECURE → AUTOMATE → OPERATE
-
-SYSTEM STATUS: ONLINE 🟢
 
 </div>
