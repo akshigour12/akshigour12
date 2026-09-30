@@ -5,15 +5,12 @@
 DevOps · DevSecOps · SRE · Cloud · Platform Engineering
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=850&lines=DevOps+Engineer;DevSecOps+Engineer;Site+Reliability+Engineering;Cloud+%26+Platform+Engineering;CI%2FCD+%26+Infrastructure+Automation;AI-powered+DevSecOps" alt="Typing animation">
-
 <br>
-
 <a href="https://github.com/akshigour12"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/akshita-g-6a24871a4/"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF88" alt="LinkedIn"></a>
 <a href="https://akshigour12.github.io/Akshita-DevSecOps-portfolio/"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=googlechrome&logoColor=00FF88" alt="Portfolio"></a>
 
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=akshigour12&label=PROFILE+VIEWS&color=00ff88&style=flat-square" alt="Profile views">
 
 </div>
