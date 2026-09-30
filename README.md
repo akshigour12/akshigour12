@@ -69,17 +69,7 @@ GitHub repository automation using Python, Flask, and the GitHub API.
 
 ---
 
-## 🎓 CERTIFICATIONS
 
-### 🏅 Security
-
-**eJPT v2** · **CEH v12**
-
-### ☁️ Cloud
-
-**INE Certified Cloud Associate**
-
----
 
 ## 🔭 CURRENTLY BUILDING
 
@@ -87,20 +77,6 @@ GitHub repository automation using Python, Flask, and the GitHub API.
 
 `AI DevSecOps Agents` · `CI/CD Security` · `Kubernetes` · `AWS` · `Terraform` · `Observability`
 
-
-<h2>🎓 CERTIFICATIONS</h2>
-
-🏅 Security Certifications
-eJPT v2 · CEH v12
-
-☁️ Cloud Certification
-INE Certified Cloud Associate
-
-<h2>🔭 CURRENTLY BUILDING</h2>
-
-🤖 AI-Powered DevSecOps
-
-AI DevSecOps Agents · CI/CD Security · Kubernetes · AWS · Terraform · Observability
 
 
 
