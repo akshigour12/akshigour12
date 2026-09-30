@@ -82,12 +82,15 @@ GitHub repository automation using Python, Flask, and the GitHub API.
 
 <div align="center">
 
+  
+  
+
 BUILD → SECURE → AUTOMATE → OPERATE
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Infrastructure+as+Code;Secure+CI%2FCD;Cloud-Native+Engineering;Automation+First;Reliability+%2B+Security" alt="Engineering focus animation">
 
 <br>
 
-SYSTEM STATUS: ONLINE 🟢
+
 
 </div>
