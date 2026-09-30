@@ -28,11 +28,11 @@ Target Roles: DevOps · DevSecOps · SRE · Cloud Engineer · Platform Engineer
 
 
 
-💼 EXPERIENCE
+## 💼 EXPERIENCE
 
+**2.5+ Years — VAPT / Application Security**
 
-2.5+ Years — VAPT / Application Security
-
+Web · API · OWASP · VAPT · SAST · SCA · Vulnerability Assessment
 
 
 
