@@ -18,7 +18,9 @@ DevSecOps Engineer · Cloud Security · Security Automation
 
 </div>
 
-🧑‍💻 About Me
+<br>
+
+🧑‍💻 ABOUT ME
 
 I build secure, automated cloud-native delivery pipelines across DevOps, security, and infrastructure.
 
@@ -26,7 +28,9 @@ Currently exploring AI-powered DevSecOps — using AI agents to observe CI/CD pi
 
 Focus: AWS · Kubernetes · Docker · Jenkins · Terraform · GitHub Actions · SAST · SCA · SBOM · Container Security
 
-🛠️ Tech Stack
+<br>
+
+🛠️ TECH STACK
 
 ☁️ Cloud
 AWS · EC2 · S3 · IAM · VPC · EKS · CloudWatch · Route 53
@@ -40,7 +44,9 @@ Semgrep · Snyk · SonarQube · Trivy · Gitleaks · OWASP · VAPT · SBOM
 🏗️ IaC & 💻 Code
 Terraform · Python · Bash · JavaScript
 
-🚀 Featured Projects
+<br>
+
+🚀 FEATURED PROJECTS
 
 🔐 Secure DevSecOps CI/CD
 
@@ -50,11 +56,15 @@ Jenkins Semgrep Snyk SonarQube Trivy Docker
 
 → View Repository
 
+<br>
+
 🤖 AI DevSecOps Agent
 
 AI-assisted Jenkins observer for pipeline, build, log, and security analysis.
 
 Python Jenkins AI Agents DevSecOps · 🟢 Active Development
+
+<br>
 
 🧰 RepoPilot
 
@@ -64,6 +74,8 @@ Python Flask GitHub API JavaScript
 
 → View Repository
 
+<br>
+
 🌐 DevOps / DevSecOps Portfolio
 
 Automated portfolio deployment using Docker, Jenkins, and AWS.
@@ -72,28 +84,37 @@ Docker Jenkins AWS EC2 Nginx
 
 Repository · Live Site
 
-🎓 Certifications
+<br>
+
+🎓 CERTIFICATIONS
 
 eJPT v2 · CEH v12 · INE Certified Cloud Associate
 
-🔭 Currently Exploring
+<br>
+
+🔭 CURRENTLY EXPLORING
 
 🤖 AI agents for DevSecOps · 🔐 CI/CD security automation · ☸️ Kubernetes & cloud security
+
 🏗️ Terraform & AWS infrastructure · 📊 Pipeline observability & intelligence
 
-📊 GitHub Activity
+<br>
+
+📊 GITHUB ACTIVITY
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akshigour12&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF88&icon_color=00FF88&text_color=F5F5F5&include_all_commits=true" alt="GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akshigour12&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF88&icon_color=00FF88&text_color=F5F5F5&hide=prs,issues" alt="GitHub statistics">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshigour12&layout=compact&hide_border=true&bg_color=050505&title_color=00FF88&text_color=F5F5F5" alt="Top languages">
 
-<br>
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshigour12&theme=dark&hide_border=true&background=050505&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub streak">
 
 </div>
+
+<br>
 
 <div align="center">
 
