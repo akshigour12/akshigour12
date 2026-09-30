@@ -26,11 +26,15 @@ Currently exploring AI-powered DevSecOps — applying AI agents to pipeline obse
 
 Target Roles: DevOps · DevSecOps · SRE · Cloud Engineer · Platform Engineer
 
+
+
 <h2>💼 EXPERIENCE</h2>
 
 2.5+ Years — VAPT / Application Security
 
 Web Security · API Security · OWASP · VAPT · SAST · SCA · Vulnerability Assessment
+
+
 
 <h2>⚡ TECH STACK</h2>
 
@@ -45,6 +49,8 @@ Semgrep · Snyk · SonarQube · Trivy · Gitleaks · OWASP · VAPT · SAST · SC
 
 🏗️ IaC & Programming
 Terraform · Python · Bash · JavaScript
+
+
 
 <h2>🚀 PROJECTS</h2>
 
@@ -80,6 +86,8 @@ Automated Docker + Jenkins + AWS EC2 deployment with Nginx.
 
 Repository · Live
 
+
+
 <h2>🎓 CERTIFICATIONS</h2>
 
 🏅 Security Certifications
@@ -93,6 +101,8 @@ INE Certified Cloud Associate
 🤖 AI-Powered DevSecOps
 
 AI DevSecOps Agents · CI/CD Security · Kubernetes · AWS · Terraform · Observability
+
+
 
 <div align="center">
 
