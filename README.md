@@ -8,19 +8,13 @@ DevSecOps Engineer · Cloud Security · Security Automation
 
 <br>
 
-<a href="https://github.com/akshigour12">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/akshita-g-6a24871a4/">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF88" alt="LinkedIn">
-</a>
-<a href="https://akshigour12.github.io/Akshita-DevSecOps-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=googlechrome&logoColor=00FF88" alt="Portfolio">
-</a>
+<a href="https://github.com/akshigour12"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF88"></a>
+<a href="https://www.linkedin.com/in/akshita-g-6a24871a4/"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF88"></a>
+<a href="https://akshigour12.github.io/Akshita-DevSecOps-portfolio/"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=googlechrome&logoColor=00FF88"></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=akshigour12&label=PROFILE+VIEWS&color=00ff88&style=flat-square" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=akshigour12&label=PROFILE+VIEWS&color=00ff88&style=flat-square">
 
 </div>
 
@@ -34,29 +28,17 @@ Focus: AWS · Kubernetes · Docker · Jenkins · Terraform · GitHub Actions · 
 
 🛠️ Tech Stack
 
-Area
-
-Technologies
-
 ☁️ Cloud
-
 AWS · EC2 · S3 · IAM · VPC · EKS · CloudWatch · Route 53
 
 🚀 DevOps
-
 Linux · Git · Docker · Kubernetes · Jenkins · GitHub Actions · Nginx
 
 🛡️ DevSecOps
-
 Semgrep · Snyk · SonarQube · Trivy · Gitleaks · OWASP · VAPT · SBOM
 
-🏗️ IaC
-
-Terraform
-
-💻 Code
-
-Python · Bash · JavaScript
+🏗️ IaC & 💻 Code
+Terraform · Python · Bash · JavaScript
 
 🚀 Featured Projects
 
@@ -72,9 +54,7 @@ Jenkins Semgrep Snyk SonarQube Trivy Docker
 
 AI-assisted Jenkins observer for pipeline, build, log, and security analysis.
 
-Python Jenkins AI Agents DevSecOps
-
-Status: 🟢 Active Development
+Python Jenkins AI Agents DevSecOps · 🟢 Active Development
 
 🧰 RepoPilot
 
@@ -90,7 +70,7 @@ Automated portfolio deployment using Docker, Jenkins, and AWS.
 
 Docker Jenkins AWS EC2 Nginx
 
-Repository · Live Portfolio
+Repository · Live Site
 
 🎓 Certifications
 
@@ -98,15 +78,8 @@ eJPT v2 · CEH v12 · INE Certified Cloud Associate
 
 🔭 Currently Exploring
 
-🤖 AI agents for DevSecOps
-
-🔐 CI/CD security automation
-
-☸️ Kubernetes & cloud security
-
-🏗️ Terraform & AWS infrastructure
-
-📊 Pipeline observability and intelligence
+🤖 AI agents for DevSecOps · 🔐 CI/CD security automation · ☸️ Kubernetes & cloud security
+🏗️ Terraform & AWS infrastructure · 📊 Pipeline observability & intelligence
 
 📊 GitHub Activity
 
@@ -116,7 +89,7 @@ eJPT v2 · CEH v12 · INE Certified Cloud Associate
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshigour12&layout=compact&hide_border=true&bg_color=050505&title_color=00FF88&text_color=F5F5F5" alt="Top languages">
 
-<br><br>
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshigour12&theme=dark&hide_border=true&background=050505&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub streak">
 
@@ -125,10 +98,6 @@ eJPT v2 · CEH v12 · INE Certified Cloud Associate
 <div align="center">
 
 BUILD → SECURE → AUTOMATE → DEPLOY
-
-<img src="https://raw.githubusercontent.com/akshigour12/akshigour12/output/github-contribution-grid-snake-dark.svg" alt="Contribution activity">
-
-<br>
 
 <a href="https://github.com/akshigour12">GitHub</a> ·
 <a href="https://www.linkedin.com/in/akshita-g-6a24871a4/">LinkedIn</a> ·
