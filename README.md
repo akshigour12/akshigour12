@@ -1,16 +1,16 @@
 <div align="center">
 
-Hi 👋 I am AKSHITA GOUR
+👋 Hi, I'm Akshita Gour
 
-DevOps · DevSecOps · SRE · Cloud · Platform Engineer · VAPT
+DevOps · DevSecOps · SRE · Cloud · Platform Engineering
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=850&lines=DevOps+Engineer;DevSecOps+Engineer;Site+Reliability+Engineering;Cloud+%26+Platform+Engineering;CI%2FCD+%26+Infrastructure+Automation;AI-powered+DevSecOps" alt="Typing animation">
 
 <br>
 
-<a href="https://github.com/akshigour12"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF88"></a>
-<a href="https://www.linkedin.com/in/akshita-g-6a24871a4/"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF88"></a>
-<a href="https://akshigour12.github.io/Akshita-DevSecOps-portfolio/"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=googlechrome&logoColor=00FF88"></a>
+<a href="https://github.com/akshigour12"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/akshita-g-6a24871a4/"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF88" alt="LinkedIn"></a>
+<a href="https://akshigour12.github.io/Akshita-DevSecOps-portfolio/"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=googlechrome&logoColor=00FF88" alt="Portfolio"></a>
 
 <br><br>
 
@@ -18,7 +18,7 @@ DevOps · DevSecOps · SRE · Cloud · Platform Engineer · VAPT
 
 </div>
 
-##🧑‍💻 ABOUT 
+🧑‍💻 ABOUT
 
 Building secure CI/CD pipelines, cloud infrastructure, containers, and automation workflows with a focus on reliability, security, and scalable delivery.
 
@@ -26,28 +26,22 @@ Currently exploring AI-powered DevSecOps — applying AI agents to pipeline obse
 
 Target Roles: DevOps · DevSecOps · SRE · Cloud Engineer · Platform Engineer
 
+💼 EXPERIENCE
 
+2.5+ Years — VAPT / Application Security
 
-## 💼 EXPERIENCE
+Web Security · API Security · OWASP · VAPT · SAST · SCA · Vulnerability Assessment
 
-**2.5+ Years — VAPT / Application Security**
-
-Web · API · OWASP · VAPT · SAST · SCA · Vulnerability Assessment
-
-
-
-##⚡ STACK
+⚡ STACK
 
 ☁️ Cloud · AWS · EC2 · S3 · IAM · VPC · EKS · CloudWatch · Route 53
-🚀 DevOps/SRE · Linux · Git · Docker · Kubernetes · Jenkins · GitHub Actions · Nginx
+🚀 DevOps / SRE · Linux · Git · Docker · Kubernetes · Jenkins · GitHub Actions · Nginx
 🛡️ Security · Semgrep · Snyk · SonarQube · Trivy · Gitleaks · OWASP · VAPT · SAST · SCA · SBOM
-🏗️ IaC/Code · Terraform · Python · Bash · JavaScript
+🏗️ IaC / Code · Terraform · Python · Bash · JavaScript
 
+🚀 PROJECTS
 
-
-##🚀 PROJECTS
-
-**🔐 Secure DevSecOps CI/CD**
+🔐 Secure DevSecOps CI/CD
 
 Jenkins Semgrep Snyk SonarQube Trivy Docker
 
@@ -55,39 +49,33 @@ Security-focused Flask CI/CD pipeline with automated code, dependency, quality, 
 
 → Repository
 
-**🤖 AI DevSecOps Agent 🟢 BUILDING**
+🤖 AI DevSecOps Agent · 🟢 BUILDING
 
 AI-assisted Jenkins observer for build, pipeline, log, and security analysis.
 
 Python Jenkins AI Agents DevSecOps
 
-**🧰 RepoPilot**
+🧰 RepoPilot
 
 GitHub repository automation using Python, Flask, and the GitHub API.
 
 → Repository
 
-**🌐 DevOps / DevSecOps Portfolio**
+🌐 DevOps / DevSecOps Portfolio
 
 Automated Docker + Jenkins + AWS EC2 deployment with Nginx.
 
 Repository · Live
 
-
-
-##🎓 CERTIFICATIONS
+🎓 CERTIFICATIONS
 
 eJPT v2 · CEH v12 · INE Certified Cloud Associate
 
-
-
-##🔭 CURRENTLY BUILDING
+🔭 CURRENTLY BUILDING
 
 AI DevSecOps Agents · CI/CD Security · Kubernetes · AWS · Terraform · Observability
 
 <div align="center">
-
-
 
 BUILD → SECURE → AUTOMATE → OPERATE
 
@@ -95,6 +83,5 @@ BUILD → SECURE → AUTOMATE → OPERATE
 
 <br>
 
-SYSTEM STATUS: ONLINE 🟢
 
 </div>
