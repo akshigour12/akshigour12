@@ -32,18 +32,29 @@ Target Roles: DevOps · DevSecOps · SRE · Cloud Engineer · Platform Engineer
 
 Web Security · API Security · OWASP · VAPT · SAST · SCA · Vulnerability Assessment
 
-⚡ STACK
+⚡ TECH STACK
 
-☁️ Cloud · AWS · EC2 · S3 · IAM · VPC · EKS · CloudWatch · Route 53
-🚀 DevOps / SRE · Linux · Git · Docker · Kubernetes · Jenkins · GitHub Actions · Nginx
-🛡️ Security · Semgrep · Snyk · SonarQube · Trivy · Gitleaks · OWASP · VAPT · SAST · SCA · SBOM
-🏗️ IaC / Code · Terraform · Python · Bash · JavaScript
+☁️ Cloud & Infrastructure
+
+AWS · EC2 · S3 · IAM · VPC · EKS · CloudWatch · Route 53
+
+🚀 DevOps & SRE
+
+Linux · Git · Docker · Kubernetes · Jenkins · GitHub Actions · Nginx
+
+🛡️ Security & DevSecOps
+
+Semgrep · Snyk · SonarQube · Trivy · Gitleaks · OWASP · VAPT · SAST · SCA · SBOM
+
+🏗️ IaC & Programming
+
+Terraform · Python · Bash · JavaScript
 
 🚀 PROJECTS
 
 🔐 Secure DevSecOps CI/CD
 
-Jenkins Semgrep Snyk SonarQube Trivy Docker
+Jenkins · Semgrep · Snyk · SonarQube · Trivy · Docker
 
 Security-focused Flask CI/CD pipeline with automated code, dependency, quality, and container security.
 
@@ -53,7 +64,7 @@ Security-focused Flask CI/CD pipeline with automated code, dependency, quality, 
 
 AI-assisted Jenkins observer for build, pipeline, log, and security analysis.
 
-Python Jenkins AI Agents DevSecOps
+Python · Jenkins · AI Agents · DevSecOps
 
 🧰 RepoPilot
 
@@ -69,9 +80,17 @@ Repository · Live
 
 🎓 CERTIFICATIONS
 
-eJPT v2 · CEH v12 · INE Certified Cloud Associate
+🏅 Security Certifications
+
+eJPT v2 · CEH v12
+
+☁️ Cloud Certification
+
+INE Certified Cloud Associate
 
 🔭 CURRENTLY BUILDING
+
+🤖 AI-Powered DevSecOps
 
 AI DevSecOps Agents · CI/CD Security · Kubernetes · AWS · Terraform · Observability
 
@@ -83,5 +102,6 @@ BUILD → SECURE → AUTOMATE → OPERATE
 
 <br>
 
+SYSTEM STATUS: ONLINE 🟢
 
 </div>
