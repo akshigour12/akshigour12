@@ -18,74 +18,77 @@ DevOps · DevSecOps · SRE · Cloud · Platform Engineering
 
 </div>
 
-<h2>🧑‍💻 ABOUT</h2>
+## 🧑‍💻 ABOUT
 
-Building secure CI/CD pipelines, cloud infrastructure, containers, and automation workflows with a focus on reliability, security, and scalable delivery.
+Building secure **CI/CD pipelines, cloud infrastructure, containers, and automation workflows**...
 
-Currently exploring AI-powered DevSecOps — applying AI agents to pipeline observation, failure analysis, security signals, and remediation workflows.
+---
 
-Target Roles: DevOps · DevSecOps · SRE · Cloud Engineer · Platform Engineer
+## 💼 EXPERIENCE
 
+### 2.5+ Years — VAPT / Application Security
 
+`Web Security` · `API Security` · `OWASP` · `VAPT` · `SAST` · `SCA`
 
-<h2>💼 EXPERIENCE</h2>
+---
 
-2.5+ Years — VAPT / Application Security
+## ⚡ TECH STACK
 
-Web Security · API Security · OWASP · VAPT · SAST · SCA · Vulnerability Assessment
+#### ☁️ Cloud & Infrastructure
+`AWS` · `EC2` · `S3` · `IAM` · `VPC` · `EKS` · `CloudWatch` · `Route 53`
 
+#### 🚀 DevOps & SRE
+`Linux` · `Git` · `Docker` · `Kubernetes` · `Jenkins` · `GitHub Actions` · `Nginx`
 
+#### 🛡️ Security & DevSecOps
+`Semgrep` · `Snyk` · `SonarQube` · `Trivy` · `Gitleaks` · `OWASP`
 
-<h2>⚡ TECH STACK</h2>
+#### 🏗️ IaC & Programming
+`Terraform` · `Python` · `Bash` · `JavaScript`
 
-☁️ Cloud & Infrastructure
-AWS · EC2 · S3 · IAM · VPC · EKS · CloudWatch · Route 53
+---
 
-🚀 DevOps & SRE
-Linux · Git · Docker · Kubernetes · Jenkins · GitHub Actions · Nginx
+## 🚀 PROJECTS
 
-🛡️ Security & DevSecOps
-Semgrep · Snyk · SonarQube · Trivy · Gitleaks · OWASP · VAPT · SAST · SCA · SBOM
+### 🔐 Secure DevSecOps CI/CD
 
-🏗️ IaC & Programming
-Terraform · Python · Bash · JavaScript
+`Jenkins` · `Semgrep` · `Snyk` · `SonarQube` · `Trivy` · `Docker`
 
+Security-focused Flask CI/CD pipeline with automated security scanning.
 
+[→ Repository](https://github.com/akshigour12/secure-devsecops-flask)
 
-<h2>🚀 PROJECTS</h2>
-
-🔐 Secure DevSecOps CI/CD
-
-Jenkins · Semgrep · Snyk · SonarQube · Trivy · Docker
-
-Security-focused Flask CI/CD pipeline with automated code, dependency, quality, and container security.
-
-→ Repository
-
-<br>
-
-🤖 AI DevSecOps Agent · 🟢 BUILDING
+### 🤖 AI DevSecOps Agent · 🟢 BUILDING
 
 AI-assisted Jenkins observer for build, pipeline, log, and security analysis.
 
-Python · Jenkins · AI Agents · DevSecOps
+`Python` · `Jenkins` · `AI Agents`
 
-<br>
-
-🧰 RepoPilot
+### 🧰 RepoPilot
 
 GitHub repository automation using Python, Flask, and the GitHub API.
 
-→ Repository
+[→ Repository](https://github.com/akshigour12/RepoPilot)
 
-<br>
+---
 
-🌐 DevOps / DevSecOps Portfolio
+## 🎓 CERTIFICATIONS
 
-Automated Docker + Jenkins + AWS EC2 deployment with Nginx.
+### 🏅 Security
 
-Repository · Live
+**eJPT v2** · **CEH v12**
 
+### ☁️ Cloud
+
+**INE Certified Cloud Associate**
+
+---
+
+## 🔭 CURRENTLY BUILDING
+
+### 🤖 AI-Powered DevSecOps
+
+`AI DevSecOps Agents` · `CI/CD Security` · `Kubernetes` · `AWS` · `Terraform` · `Observability`
 
 
 <h2>🎓 CERTIFICATIONS</h2>
