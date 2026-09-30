@@ -24,12 +24,14 @@ Building secure, automated cloud-native infrastructure and CI/CD pipelines with 
 
 Target Roles: DevOps · DevSecOps · SRE · Cloud · Platform Engineering
 
+
 🛠️ STACK
 
 Cloud: AWS · EC2 · S3 · IAM · VPC · EKS · CloudWatch · Route 53
 DevOps/SRE: Linux · Git · Docker · Kubernetes · Jenkins · GitHub Actions · Nginx
 Security: Semgrep · Snyk · SonarQube · Trivy · Gitleaks · OWASP · VAPT · SAST · SCA · SBOM
 IaC/Code: Terraform · Python · Bash · JavaScript
+
 
 🚀 PROJECTS
 
@@ -48,26 +50,16 @@ Repository →
 Docker + Jenkins + AWS EC2 + Nginx
 Repo · Live
 
+
 🎓 CERTIFICATIONS
 
 eJPT v2 · CEH v12 · INE Certified Cloud Associate
+
 
 🔭 CURRENTLY BUILDING
 
 AI DevSecOps Agents · CI/CD Security · Kubernetes · AWS · Terraform · Observability
 
-📊 GITHUB
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=akshigour12&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF88&icon_color=00FF88&text_color=F5F5F5&hide=prs,issues" alt="GitHub statistics">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshigour12&layout=compact&hide_border=true&bg_color=050505&title_color=00FF88&text_color=F5F5F5" alt="Top languages">
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshigour12&theme=dark&hide_border=true&background=050505&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub streak">
-
-</div>
 
 <div align="center">
 
