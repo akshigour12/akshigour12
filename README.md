@@ -18,7 +18,7 @@ DevOps · DevSecOps · SRE · Cloud · Platform Engineer · VAPT
 
 </div>
 
-🧑‍💻 ABOUT
+##🧑‍💻 ABOUT 
 
 Building secure CI/CD pipelines, cloud infrastructure, containers, and automation workflows with a focus on reliability, security, and scalable delivery.
 
@@ -36,7 +36,7 @@ Web · API · OWASP · VAPT · SAST · SCA · Vulnerability Assessment
 
 
 
-⚡ STACK
+##⚡ STACK
 
 ☁️ Cloud · AWS · EC2 · S3 · IAM · VPC · EKS · CloudWatch · Route 53
 🚀 DevOps/SRE · Linux · Git · Docker · Kubernetes · Jenkins · GitHub Actions · Nginx
@@ -45,9 +45,9 @@ Web · API · OWASP · VAPT · SAST · SCA · Vulnerability Assessment
 
 
 
-🚀 PROJECTS
+##🚀 PROJECTS
 
-🔐 Secure DevSecOps CI/CD
+**🔐 Secure DevSecOps CI/CD**
 
 Jenkins Semgrep Snyk SonarQube Trivy Docker
 
@@ -55,19 +55,19 @@ Security-focused Flask CI/CD pipeline with automated code, dependency, quality, 
 
 → Repository
 
-🤖 AI DevSecOps Agent 🟢 BUILDING
+**🤖 AI DevSecOps Agent 🟢 BUILDING**
 
 AI-assisted Jenkins observer for build, pipeline, log, and security analysis.
 
 Python Jenkins AI Agents DevSecOps
 
-🧰 RepoPilot
+**🧰 RepoPilot**
 
 GitHub repository automation using Python, Flask, and the GitHub API.
 
 → Repository
 
-🌐 DevOps / DevSecOps Portfolio
+**🌐 DevOps / DevSecOps Portfolio**
 
 Automated Docker + Jenkins + AWS EC2 deployment with Nginx.
 
@@ -75,13 +75,13 @@ Repository · Live
 
 
 
-🎓 CERTIFICATIONS
+##🎓 CERTIFICATIONS
 
 eJPT v2 · CEH v12 · INE Certified Cloud Associate
 
 
 
-🔭 CURRENTLY BUILDING
+##🔭 CURRENTLY BUILDING
 
 AI DevSecOps Agents · CI/CD Security · Kubernetes · AWS · Terraform · Observability
 
