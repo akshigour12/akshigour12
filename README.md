@@ -27,6 +27,8 @@ Currently exploring AI-powered DevSecOps — applying AI agents to pipeline obse
 Target Roles: DevOps · DevSecOps · SRE · Cloud Engineer · Platform Engineer
 
 💼 EXPERIENCE
+
+
 2.5+ Years — VAPT / Application Security
 
 ⚡ STACK
