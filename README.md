@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 AKSHITA GOUR
+Hi 👋 I am AKSHITA GOUR
 
 DevOps · DevSecOps · SRE · Cloud · Platform Engineering
 
