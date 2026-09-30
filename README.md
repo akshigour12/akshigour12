@@ -18,7 +18,7 @@ DevOps · DevSecOps · SRE · Cloud · Platform Engineering
 
 </div>
 
-🧑‍💻 ABOUT
+<h2>🧑‍💻 ABOUT</h2>
 
 Building secure CI/CD pipelines, cloud infrastructure, containers, and automation workflows with a focus on reliability, security, and scalable delivery.
 
@@ -26,31 +26,27 @@ Currently exploring AI-powered DevSecOps — applying AI agents to pipeline obse
 
 Target Roles: DevOps · DevSecOps · SRE · Cloud Engineer · Platform Engineer
 
-💼 EXPERIENCE
+<h2>💼 EXPERIENCE</h2>
 
 2.5+ Years — VAPT / Application Security
 
 Web Security · API Security · OWASP · VAPT · SAST · SCA · Vulnerability Assessment
 
-⚡ TECH STACK
+<h2>⚡ TECH STACK</h2>
 
 ☁️ Cloud & Infrastructure
-
 AWS · EC2 · S3 · IAM · VPC · EKS · CloudWatch · Route 53
 
 🚀 DevOps & SRE
-
 Linux · Git · Docker · Kubernetes · Jenkins · GitHub Actions · Nginx
 
 🛡️ Security & DevSecOps
-
 Semgrep · Snyk · SonarQube · Trivy · Gitleaks · OWASP · VAPT · SAST · SCA · SBOM
 
 🏗️ IaC & Programming
-
 Terraform · Python · Bash · JavaScript
 
-🚀 PROJECTS
+<h2>🚀 PROJECTS</h2>
 
 🔐 Secure DevSecOps CI/CD
 
@@ -60,11 +56,15 @@ Security-focused Flask CI/CD pipeline with automated code, dependency, quality, 
 
 → Repository
 
+<br>
+
 🤖 AI DevSecOps Agent · 🟢 BUILDING
 
 AI-assisted Jenkins observer for build, pipeline, log, and security analysis.
 
 Python · Jenkins · AI Agents · DevSecOps
+
+<br>
 
 🧰 RepoPilot
 
@@ -72,23 +72,23 @@ GitHub repository automation using Python, Flask, and the GitHub API.
 
 → Repository
 
+<br>
+
 🌐 DevOps / DevSecOps Portfolio
 
 Automated Docker + Jenkins + AWS EC2 deployment with Nginx.
 
 Repository · Live
 
-🎓 CERTIFICATIONS
+<h2>🎓 CERTIFICATIONS</h2>
 
 🏅 Security Certifications
-
 eJPT v2 · CEH v12
 
 ☁️ Cloud Certification
-
 INE Certified Cloud Associate
 
-🔭 CURRENTLY BUILDING
+<h2>🔭 CURRENTLY BUILDING</h2>
 
 🤖 AI-Powered DevSecOps
 
