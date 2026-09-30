@@ -1,130 +1,77 @@
 <div align="center">
 
-👋 Hi, I'm Akshita Gour
+👋 Akshita Gour
 
-DevSecOps Engineer · Cloud Security · Security Automation
+DevOps · DevSecOps · SRE · Cloud / Platform Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=DevSecOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Security+Automation;Building+secure+cloud-native+systems;Exploring+AI-powered+DevSecOps" alt="Typing animation">
-
-<br>
-
-<a href="https://github.com/akshigour12"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF88"></a>
-<a href="https://www.linkedin.com/in/akshita-g-6a24871a4/"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF88"></a>
-<a href="https://akshigour12.github.io/Akshita-DevSecOps-portfolio/"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=googlechrome&logoColor=00FF88"></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=akshigour12&label=PROFILE+VIEWS&color=00ff88&style=flat-square">
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=00FF88&center=true&vCenter=true&width=800&lines=DevOps+%7C+DevSecOps+%7C+SRE;Cloud+%7C+Platform+Engineering;CI%2FCD+%7C+Infrastructure+as+Code;Secure+Cloud-Native+Systems;AI-powered+DevSecOps" alt="Typing animation">
 
 <br>
-
-🧑‍💻 ABOUT ME
-
-I build secure, automated cloud-native delivery pipelines across DevOps, security, and infrastructure.
-
-Currently exploring AI-powered DevSecOps — using AI agents to observe CI/CD pipelines, analyze failures and security signals, and assist with remediation.
-
-Focus: AWS · Kubernetes · Docker · Jenkins · Terraform · GitHub Actions · SAST · SCA · SBOM · Container Security
-
-<br>
-
-🛠️ TECH STACK
-
-☁️ Cloud
-AWS · EC2 · S3 · IAM · VPC · EKS · CloudWatch · Route 53
-
-🚀 DevOps
-Linux · Git · Docker · Kubernetes · Jenkins · GitHub Actions · Nginx
-
-🛡️ DevSecOps
-Semgrep · Snyk · SonarQube · Trivy · Gitleaks · OWASP · VAPT · SBOM
-
-🏗️ IaC & 💻 Code
-Terraform · Python · Bash · JavaScript
-
-<br>
-
-🚀 FEATURED PROJECTS
-
-🔐 Secure DevSecOps CI/CD
-
-Security-focused Flask pipeline integrating testing, SAST, SCA, code quality, and container scanning.
-
-Jenkins Semgrep Snyk SonarQube Trivy Docker
-
-→ View Repository
-
-<br>
-
-🤖 AI DevSecOps Agent
-
-AI-assisted Jenkins observer for pipeline, build, log, and security analysis.
-
-Python Jenkins AI Agents DevSecOps · 🟢 Active Development
-
-<br>
-
-🧰 RepoPilot
-
-Flask + GitHub API automation for repository discovery and management.
-
-Python Flask GitHub API JavaScript
-
-→ View Repository
-
-<br>
-
-🌐 DevOps / DevSecOps Portfolio
-
-Automated portfolio deployment using Docker, Jenkins, and AWS.
-
-Docker Jenkins AWS EC2 Nginx
-
-Repository · Live Site
-
-<br>
-
-🎓 CERTIFICATIONS
-
-eJPT v2 · CEH v12 · INE Certified Cloud Associate
-
-<br>
-
-🔭 CURRENTLY EXPLORING
-
-🤖 AI agents for DevSecOps · 🔐 CI/CD security automation · ☸️ Kubernetes & cloud security
-
-🏗️ Terraform & AWS infrastructure · 📊 Pipeline observability & intelligence
-
-<br>
-
-📊 GITHUB ACTIVITY
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akshigour12&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF88&icon_color=00FF88&text_color=F5F5F5&hide=prs,issues" alt="GitHub statistics">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshigour12&layout=compact&hide_border=true&bg_color=050505&title_color=00FF88&text_color=F5F5F5" alt="Top languages">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshigour12&theme=dark&hide_border=true&background=050505&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub streak">
-
-</div>
-
-<br>
-
-<div align="center">
-
-BUILD → SECURE → AUTOMATE → DEPLOY
 
 <a href="https://github.com/akshigour12">GitHub</a> ·
 <a href="https://www.linkedin.com/in/akshita-g-6a24871a4/">LinkedIn</a> ·
 <a href="https://akshigour12.github.io/Akshita-DevSecOps-portfolio/">Portfolio</a>
 
 <br><br>
+
+<img src="https://komarev.com/ghpvc/?username=akshigour12&label=PROFILE+VIEWS&color=00ff88&style=flat-square" alt="Profile views">
+
+</div>
+
+🧑‍💻 ABOUT
+
+Building secure, automated cloud-native infrastructure and CI/CD pipelines with a focus on reliability, security, and automation.
+
+Target Roles: DevOps · DevSecOps · SRE · Cloud · Platform Engineering
+
+🛠️ STACK
+
+Cloud: AWS · EC2 · S3 · IAM · VPC · EKS · CloudWatch · Route 53
+DevOps/SRE: Linux · Git · Docker · Kubernetes · Jenkins · GitHub Actions · Nginx
+Security: Semgrep · Snyk · SonarQube · Trivy · Gitleaks · OWASP · VAPT · SAST · SCA · SBOM
+IaC/Code: Terraform · Python · Bash · JavaScript
+
+🚀 PROJECTS
+
+🔐 Secure DevSecOps CI/CD
+Jenkins + Semgrep + Snyk + SonarQube + Trivy + Docker
+Repository →
+
+🤖 AI DevSecOps Agent
+Jenkins observer for build, log, security analysis & AI-assisted recommendations. 🟢 Building
+
+🧰 RepoPilot
+Python/Flask + GitHub API automation for repository management.
+Repository →
+
+🌐 DevOps Portfolio
+Docker + Jenkins + AWS EC2 + Nginx
+Repo · Live
+
+🎓 CERTIFICATIONS
+
+eJPT v2 · CEH v12 · INE Certified Cloud Associate
+
+🔭 CURRENTLY BUILDING
+
+AI DevSecOps Agents · CI/CD Security · Kubernetes · AWS · Terraform · Observability
+
+📊 GITHUB
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=akshigour12&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF88&icon_color=00FF88&text_color=F5F5F5&hide=prs,issues" alt="GitHub statistics">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshigour12&layout=compact&hide_border=true&bg_color=050505&title_color=00FF88&text_color=F5F5F5" alt="Top languages">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshigour12&theme=dark&hide_border=true&background=050505&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub streak">
+
+</div>
+
+<div align="center">
+
+BUILD → SECURE → AUTOMATE → OPERATE
 
 SYSTEM STATUS: ONLINE 🟢
 
