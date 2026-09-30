@@ -35,13 +35,13 @@ Building secure **CI/CD pipelines, cloud infrastructure, containers, and automat
 `AWS` · `EC2` · `S3` · `IAM` · `VPC` · `EKS` · `CloudWatch` · `Route 53`
 
 #### 🚀 DevOps & SRE
-`Linux` · `Git` · `Docker` · `Kubernetes` · `Jenkins` · `GitHub Actions` · `Nginx`
+`Linux` · `Git` · `Docker` · `Kubernetes` · `Jenkins` · `GitHub Actions` · `Nginx` 
 
 #### 🛡️ Security & DevSecOps
-`Semgrep` · `Snyk` · `SonarQube` · `Trivy` · `Gitleaks` · `OWASP`
+`Semgrep` · `Snyk` · `SonarQube` · `Trivy` · `Gitleaks` · `OWASP` · `Container Security` · `Git Security` 
 
 #### 🏗️ IaC & Programming
-`Terraform` · `Python` · `Bash` · `JavaScript`
+`Terraform` · `Python` · `Bash` 
 
 ---
 
